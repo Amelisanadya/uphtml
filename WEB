@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portofolio Amelisa</title>
+    <style>
+      h3 {
+        color: #574533;
+      }
+      body {
+        background-color: #E7DFD8;
+        font-family:  sans-serif;
+      }
+      a{text-decoration: none; font-size: 20px;font-family: sans-serif;padding: 14px 10px;}
+    ul{padding: 14px;}
+    li{list-style: none; display: inline;}
+    li a{background: #E7DFD8; color: #574533;}
+    li a:hover{background: #E7DFD8;color: #574533;}
+    .navi{background: #E7DFD8; height: 50px;}
+
+  </style>
+    </style>
+  </head>
+  <nav class="navi">
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Portofolio</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  <body>
+    <h3>Amelisanadya</h3>
+  </body>
+</html>
